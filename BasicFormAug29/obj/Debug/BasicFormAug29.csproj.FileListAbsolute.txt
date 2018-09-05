@@ -1,0 +1,13 @@
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\bin\Debug\BasicFormAug29.exe.config
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\bin\Debug\BasicFormAug29.exe
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\bin\Debug\BasicFormAug29.pdb
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.csprojAssemblyReference.cache
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.Form1.resources
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.Properties.Resources.resources
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.csproj.GenerateResource.cache
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.exe
+C:\Users\phill\source\repos\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.pdb
+\\dover-fs\users\lphill16\Desktop\myProject\BasicFormAug29\BasicFormAug29\bin\Debug\BasicFormAug29.exe.config
+\\dover-fs\users\lphill16\Desktop\myProject\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.exe
+\\dover-fs\users\lphill16\Desktop\myProject\BasicFormAug29\BasicFormAug29\obj\Debug\BasicFormAug29.pdb
